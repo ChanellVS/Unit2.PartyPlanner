@@ -1,0 +1,10 @@
+html{
+ background-color: antiquewhite;   
+}
+.pList{
+    border: 5px solid black;
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
